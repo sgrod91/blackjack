@@ -1,0 +1,31 @@
+#table {
+  width: 1000px;
+  height: 500px;
+  background-color: limegreen;
+  padding: 30px;
+}
+
+#messages {
+  height: 20px;
+}
+
+#dealer-hand {
+  height: 70px;
+  background-color: lightgreen;
+
+}
+
+#player-hand {
+  height: 70px;
+  background-color: lightgreen;
+}
+
+.buttons {
+  text-align: center;
+}
+
+img {
+  border: 2px solid red;
+  height: 60px;
+  display: inline-block;
+}
